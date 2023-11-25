@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628991235810",
+    "project_id": "superai-61980",
+    "storage_bucket": "superai-61980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628991235810:android:c5ce44ed92efa2f55cb0bb",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp.flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNlDkaNcRaLFpr3_J5EzpzEBerqRl0xOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
